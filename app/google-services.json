@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025328806539",
+    "project_id": "splendiuz",
+    "storage_bucket": "splendiuz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025328806539:android:c2cac4023b6d69a6bb728e",
+        "android_client_info": {
+          "package_name": "com.example.todolistapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv2Vu62ltul12-UFeVj5oy1M8Jphnzvsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
